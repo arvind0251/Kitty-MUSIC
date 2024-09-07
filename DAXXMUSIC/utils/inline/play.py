@@ -69,11 +69,11 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text="✪ʟɪꜰᴇ✪",
-                url=f"https://t.me/CRAZY_OP_01",
+                url=f"https://t.me/+a-xTeqUA61AwYmNl",
             ),
             InlineKeyboardButton(
                 text="✪ᴊᴀɴɴ✪",
-                url=f"https://t.me/+OKh1elJ1As0zYjk1",
+                url=f"https://t.me/+a-xTeqUA61AwYmNl",
             ),
         ],
         [
@@ -102,14 +102,14 @@ def stream_markup(_, chat_id):
 
                 text="✪ʟɪꜰᴇ✪",
 
-                url=f"https://t.me/CRAZY_OP_01",
+                url=f"https://t.me/+a-xTeqUA61AwYmNl",
 
             ),
             InlineKeyboardButton(
 
                 text="✪ᴊᴀɴɴ✪",
 
-                url=f"https://t.me/+OKh1elJ1As0zYjk1",
+                url=f"https://t.me/+a-xTeqUA61AwYmNl",
 
             ),
         ],
